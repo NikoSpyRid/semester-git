@@ -1,3 +1,9 @@
+.DS_Store
+Thumbs.db
+*.tpm
+*.bak
+.vscode/
+.idea/
 temp/
 *.log
 node_modules/
